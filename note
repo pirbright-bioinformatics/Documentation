@@ -1,0 +1,13 @@
+# Install rbenv and ruby-build (if not installed)
+# On Ubuntu/Debian
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init - bash)"' >> ~/.bashrc
+exec $SHELL
+
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+
+# Install Ruby 3.1.x (matches GitHub Pages)
+rbenv install 3.1.4
+rbenv local 3.1.4   # creates a .ruby-version file
+

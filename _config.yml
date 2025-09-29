@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Bioinformatics Documents 
+description: A repository for bioinformatics documentation 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://pirbright-bioinformatics.github.io/Documentation
+nav_enabled: true
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
