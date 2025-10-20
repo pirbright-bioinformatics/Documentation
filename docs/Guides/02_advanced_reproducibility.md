@@ -69,3 +69,6 @@ will re-create the original environment.
    - Python: `python --version && pip list`  
    - Conda: `conda info`  
 4. Write a `README.md` with clear rebuild instructions.  
+
+
+[← Back to {{ page.parent }}](./index.html)

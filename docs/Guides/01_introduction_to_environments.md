@@ -137,3 +137,6 @@ will install the package *dplyr*
 1. Always **activate the environment** before installing packages (except for R which automatically does this).  
 2. Keep one environment **per project**.  
 3. Delete and recreate environments if they break — they are disposable.  
+
+
+[← Back to {{ page.parent }}](./index.html)
