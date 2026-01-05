@@ -4,7 +4,7 @@ title: SLURM Guide
 parent: HPC 
 nav_order: 2          
 ---
-# README.md – Getting Started with SLURM (Beginner-Friendly)
+# Getting Started with SLURM 
 
 This is a guide to using **SLURM (Simple Linux Utility for Resource Management)** on an HPC (High Performance Computing) cluster. No prior HPC experience is assumed.
 
