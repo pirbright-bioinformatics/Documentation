@@ -4,7 +4,7 @@ title: Migrate to Mamba
 parent: Guides 
 nav_order: 4          
 ---
-# ** Migration from Conda to Mamba or Micromamba**
+# Migration from Conda to Mamba or Micromamba
 
 ---
 
