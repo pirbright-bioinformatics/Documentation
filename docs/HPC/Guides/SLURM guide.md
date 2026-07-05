@@ -1,8 +1,8 @@
 ---
 layout: default      
 title: SLURM Guide    
-parent: HPC 
-nav_order: 2          
+parent: Guides 
+nav_order: 3          
 ---
 # Getting Started with SLURM 
 

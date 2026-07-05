@@ -1,8 +1,8 @@
 ---
 layout: default      
 title: Migrate to Mamba 
-parent: Guides 
-nav_order: 4          
+parent: Environments 
+nav_order: 3          
 ---
 # Migration from Conda to Mamba or Micromamba
 

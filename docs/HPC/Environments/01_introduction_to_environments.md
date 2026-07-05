@@ -1,8 +1,8 @@
 ---
 layout: default      
 title: Introduction to Environments
-parent: Guides 
-nav_order: 2          
+parent: Environments 
+nav_order: 1          
 ---
 # Introduction to Environments: Creating and Using Environments
 

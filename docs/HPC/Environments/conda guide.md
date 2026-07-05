@@ -1,7 +1,7 @@
 ---
 layout: default      
 title: Conda Guide    
-parent: HPC 
+parent: Environments 
 nav_order: 2          
 ---
 # Installing Conda and Disabling the Default Channel

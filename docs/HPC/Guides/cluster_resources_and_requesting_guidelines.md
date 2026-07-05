@@ -1,7 +1,7 @@
 ---
 layout: default      
 title: Cluster Resources and Allocation Guide    
-parent: HPC 
+parent: Guides 
 nav_order: 2          
 ---
 # Cluster Resources and Allocation 

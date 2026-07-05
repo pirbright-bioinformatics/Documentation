@@ -1,8 +1,8 @@
 ---
 layout: default      
 title: Passing Environments
-parent: Guides 
-nav_order: 2          
+parent: Environments 
+nav_order: 4          
 ---
 # Reproducibility of Environments
 
