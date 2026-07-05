@@ -2,7 +2,7 @@
 layout: default      
 title: Conda Guide    
 parent: Pipelines 
-nav_order: 2          
+nav_order: 1          
 ---
 # Viral Genome Assembly Pipeline: Theory and Practical Usage
 
