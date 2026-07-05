@@ -1,7 +1,7 @@
 ---
 layout: default      
 title: Storage Guide  
-parent: HPC 
+parent: Guides 
 nav_order: 4           
 ---
 # Lustre Storage Usage Guide 
